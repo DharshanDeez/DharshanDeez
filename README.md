@@ -12,7 +12,6 @@ I'm a **Senior Full Stack AI Engineer & SaaS Builder** with 4.5+ years of profes
 
 I bridge the gap between deep AI integration and heavy-duty product engineering to build software that drives real business impact.
 
-* 🏢 **Founder & CEO** at Advensify, Extrovert AI, and AI Guardian.
 * ⚡ **Rapid MVP Development:** I build and launch robust, production-ready MVPs end-to-end within a tight 3-week sprint.
 * 🛠️ **Full-Product Capability:** Cloud infrastructure, database modeling, secure multi-tenant backends, cross-platform mobile, responsive frontends, and native AI layers—built entirely end-to-end.
 
@@ -42,9 +41,8 @@ I bridge the gap between deep AI integration and heavy-duty product engineering 
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,angular" />
 </p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react" alt="React Native" /> *(React Native for Cross-Platform Mobile)*
-</p>
+
+* **Frameworks:** Next.js, React, **React Native (Cross-Platform Mobile)**, Angular, Tailwind CSS.
 
 ### Languages & Tools
 <p>
@@ -88,19 +86,4 @@ An AI-powered, real-time simulated interview system (voice + text) built end-to-
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dharshan-a-1a9984278" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/DharshanDeez" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  &nbsp;
-  <a href="mailto:dharshandeez111@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
----
-
-> **"Turning ambitious product visions into production-ready software architectures."**
+  <a href="https://www.linkedin.com/in/dharshan-a-1a9984278" target="_
