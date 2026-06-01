@@ -1,70 +1,63 @@
-```markdown
-# Hey there, I'm Dharshan 👋
+# Hey there, I'm Dharshan A. 👋
 
-### Full Stack Engineer • AI Engineer • SaaS Builder
+### Senior Full Stack AI Engineer • SaaS Founder • Specialist in Agentic AI
 
-Building intelligent products, scalable SaaS platforms, and AI-powered systems that create real business impact.
+Building intelligent production systems, scalable multi-tenant SaaS platforms, and advanced AI agent workflows that drive massive business impact.
 
 ---
 
 ## 🚀 About Me
 
-I'm a Full Stack Software Engineer with 4+ years of experience building products across healthcare, SaaS, gaming, and AI domains.
+I'm a **Senior Full Stack AI Engineer & Data Scientist** with 4.5+ years of professional engineering experience. As a builder and founder, I bridge the gap between complex machine learning architectures and scalable, production-ready software systems. 
 
-I specialize in designing scalable backend systems, modern web applications, AI-powered workflows, and multi-tenant platforms. I enjoy turning ambitious ideas into production-ready products by combining strong engineering principles with product thinking.
+I specialize in architecting distributed serverless systems, designing advanced multi-agent orchestrations, and turning ambitious AI/LLM concepts into high-performance products.
+
+* 🏢 **Founder & CEO** at Advensify, Extrovert AI, and AI Guardian.
+* ⚡ **Rapid MVP Development:** I specialize in building robust, production-ready MVPs end-to-end within a tight 3-week sprint.
+* 💡 **Core Thesis:** Engineering products where advanced AI, robust system design, and tangible business ROI converge.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java" />
+</p>
+
+### AI & Core Machine Learning
+* **Focus:** Agentic AI, Large Language Models (LLMs), Advanced RAG Pipelines, Multi-Agent Frameworks, Transformer Architectures.
+
+### Backend & Serverless
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django" />
 </p>
 
 ### Frontend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,angular" />
 </p>
 
-### Backend
-
+### Cloud, DevOps & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,django,express" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,gcp,azure&theme=dark" />
 </p>
-
-### Databases
-
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" />
 </p>
 
-### Cloud & DevOps
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,githubactions" />
-</p>
+## 🎯 Current Engineering Focus
 
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+* 🤖 **Agentic AI Systems:** Designing self-correcting, autonomous multi-agent workflows for complex operations.
+* 🧠 **LLMs & Advanced RAG:** Optimizing context retrieval, fine-tuning, and performance boundaries of large models.
+* 📈 **AI Sales & CRM Automation:** Building next-generation B2B automation tools (Extrovert AI).
+* 🏗️ **Distributed & Serverless Architectures:** Leveraging AWS (Lambda, API Gateway, DynamoDB) for ultra-scalable, high-performance backends.
 
 ---
 
-## 🚀 Current Status
-
-- 🔭 Building AI Agents, AI Sales Automation, and SaaS Products
-- 🌱 Learning Advanced Agentic AI Architectures & Distributed Systems
-- 👯 Open to collaborating on AI, SaaS, and Open Source Projects
-- 💬 Ask me about React, Angular, Next.js, Node.js, FastAPI, System Design, AI Engineering, and Product Development
-
----
-
-## 📊 GitHub Stats
+## 🚀 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=DharshanDeez&show_icons=true&theme=github_dark&hide_border=true" />
@@ -77,34 +70,22 @@ I specialize in designing scalable backend systems, modern web applications, AI-
 
 ---
 
-## 🎯 Current Focus
-
-- 🤖 Agentic AI Systems
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 📈 AI Sales Automation
-- 🏗️ Multi-Tenant SaaS Platforms
-- ⚡ High-Performance Backend Systems
-- ☁️ Cloud-Native Applications
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/DharshanDeez">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/dharshan-a-1a9984278">
+  <a href="https://www.linkedin.com/in/dharshan-a-1a9984278" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;
-  <a href="mailto:dharshandeez111@gmail.com">
+  <a href="https://github.com/DharshanDeez" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  &nbsp;
+  <a href="mailto:dharshandeez111@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 ---
 
-> **Building products where AI, engineering, and business impact converge.**
-```
+> **"Turning ambitious product visions into production-ready AI systems."**
