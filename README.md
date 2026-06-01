@@ -12,7 +12,6 @@ I'm a **Senior Full Stack AI Engineer & SaaS Builder** with 4.5+ years of profes
 
 I bridge the gap between deep AI integration and heavy-duty product engineering to build software that drives real business impact.
 
-* 🏢 **Founder & CEO** at Advensify, Extrovert AI, and AI Guardian.
 * ⚡ **Rapid MVP Development:** I build and launch robust, production-ready MVPs end-to-end within a tight 3-week sprint.
 * 🛠️ **Full-Product Capability:** Cloud infrastructure, database modeling, secure multi-tenant backends, cross-platform mobile, responsive frontends, and native AI layers—built entirely end-to-end.
 
