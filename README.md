@@ -86,11 +86,11 @@ An AI-powered, real-time simulated interview system (voice + text) built end-to-
 
 ## 🌐 Connect With Me
 
-| Platform | Link |
+| Platform | Profile Icon |
 | :--- | :--- |
-| **LinkedIn** | [linkedin.com/in/dharshan-a-1a9984278](https://www.linkedin.com/in/dharshan-a-1a9984278) |
-| **GitHub** | [github.com/DharshanDeez](https://github.com/DharshanDeez) |
-| **Email** | [dharshandeez111@gmail.com](mailto:dharshandeez111@gmail.com) |
+| **LinkedIn** | [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dharshan-a-1a9984278) |
+| **GitHub** | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/DharshanDeez) |
+| **Email** | [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:dharshandeez111@gmail.com) |
 
 ---
 
