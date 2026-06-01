@@ -65,4 +65,27 @@ An AI-powered, real-time simulated interview system (voice + text) built end-to-
 
 * 🤖 **Agentic AI Systems:** Designing self-correcting, autonomous multi-agent workflows for complex operations.
 * 🧠 **LLMs & Advanced RAG:** Optimizing context retrieval, prompt engineering, vector embedding spaces, and performance boundaries of large models.
-* 📈 **AI
+* 📈 **AI Sales & CRM Automation:** Building next-generation B2B automation tools (Extrovert AI).
+* 🏗️ **Distributed & Serverless Architectures:** Leveraging AWS (Lambda, API Gateway, DynamoDB) for ultra-scalable, high-performance backends.
+
+---
+
+## 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DharshanDeez&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+| Platform | Profile Icon |
+| :--- | :--- |
+| **LinkedIn** | [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dharshan-a-1a9984278) |
+| **GitHub** | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/DharshanDeez) |
+| **Email** | [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:dharshandeez111@gmail.com) |
+
+---
+
+> **"Turning ambitious product visions into production-ready software architectures."**
