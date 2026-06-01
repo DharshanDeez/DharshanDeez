@@ -8,11 +8,10 @@ Building intelligent production systems, scalable multi-tenant SaaS platforms, a
 
 ## 🚀 About Me
 
-I'm a **Senior Full Stack AI Engineer & Data Scientist** with 4.5+ years of professional engineering experience. As a builder and founder, I bridge the gap between complex machine learning architectures and scalable, production-ready software systems. 
+I'm a **Senior Full Stack AI Engineer** with 4.5+ years of professional engineering experience. As a builder and founder, I bridge the gap between complex machine learning architectures and scalable, production-ready software systems. 
 
 I specialize in architecting distributed serverless systems, designing advanced multi-agent orchestrations, and turning ambitious AI/LLM concepts into high-performance products.
 
-* 🏢 **Founder & CEO** at Advensify, Extrovert AI, and AI Guardian.
 * ⚡ **Rapid MVP Development:** I specialize in building robust, production-ready MVPs end-to-end within a tight 3-week sprint.
 * 💡 **Core Thesis:** Engineering products where advanced AI, robust system design, and tangible business ROI converge.
 
