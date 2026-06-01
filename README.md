@@ -8,7 +8,7 @@ Engineering intelligent production systems, scalable multi-tenant SaaS platforms
 
 ## 🚀 About Me
 
-I'm a **Senior Full Stack AI Engineer & SaaS Builder** with 4.5+ years of professional experience shipping production-ready applications. I specialize in complete product ownership—architecting distributed cloud backends, designing advanced multi-agent orchestrations, building modern web/mobile interfaces, and setting up robust CI/CD pipelines.
+I'm a **Senior Full Stack AI Engineer & SaaS Builder** with 4.5+ years of professional experience shipping production-ready applications[cite: 1]. I specialize in complete product ownership—architecting distributed cloud backends, designing advanced multi-agent orchestrations, building modern web/mobile interfaces, and setting up robust CI/CD pipelines[cite: 1].
 
 I bridge the gap between deep AI integration and heavy-duty product engineering to build software that drives real business impact.
 
@@ -21,11 +21,11 @@ I bridge the gap between deep AI integration and heavy-duty product engineering 
 
 ### AI & Intelligent Workflows
 <p>
-  <img src="https://skillicons.dev/icons?i=openai,py" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn" />
 </p>
 
-* **Core Focus:** Agentic AI Systems, Multi-Agent Frameworks, Large Language Models (LLMs - Gemini, OpenAI), Advanced RAG Pipelines.
-* **Vector Databases & Search:** pgvector, Pinecone, Qdrant, Redis Caching.
+* **Core Focus:** Agentic AI Systems, Multi-Agent Frameworks, Large Language Models (LLMs - Gemini, OpenAI), Advanced RAG Pipelines[cite: 1].
+* **Vector Databases & Search:** pgvector, Pinecone, Qdrant, Redis Caching[cite: 1].
 
 ### Backend, Cloud & DevOps
 <p>
@@ -35,14 +35,14 @@ I bridge the gap between deep AI integration and heavy-duty product engineering 
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django" />
 </p>
 
-* **Infrastructure & DBs:** Serverless Architectures (AWS Lambda, API Gateway, DynamoDB), PostgreSQL, MongoDB, MySQL, Redis.
+* **Infrastructure & DBs:** Serverless Architectures (AWS Lambda, API Gateway, DynamoDB), PostgreSQL, MongoDB, MySQL, Redis[cite: 1].
 
 ### Frontend & Mobile
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,angular" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=react" alt="React Native" /> *(React Native for Cross-Platform Mobile)*
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native" /> *(React Native for Cross-Platform Mobile)*[cite: 1]
 </p>
 
 ### Languages & Tools
@@ -55,10 +55,10 @@ I bridge the gap between deep AI integration and heavy-duty product engineering 
 ## 🛠️ Featured Open Source Project
 
 ### 🤖 [Virtual AI Interviewer](https://github.com/DharshanDeez)
-An AI-powered, real-time simulated interview system (voice + text) built end-to-end using **Python, FastAPI, and LLMs**.
-* **For Candidates:** Upload a resume + job description to receive real-time, adaptive technical interviews and actionable conversational feedback.
-* **For Recruiters:** Automated deep-dive candidate insights and technical evaluation metrics.
-* **Architecture:** Engineered for high scalability, low latency, and seamless multi-tenant SaaS deployment.
+An AI-powered, real-time simulated interview system (voice + text) built end-to-end using **Python, FastAPI, and LLMs**[cite: 1].
+* **For Candidates:** Upload a resume + job description to receive real-time, adaptive technical interviews and actionable conversational feedback[cite: 1].
+* **For Recruiters:** Automated deep-dive candidate insights and technical evaluation metrics[cite: 1].
+* **Architecture:** Engineered for high scalability, low latency, and seamless multi-tenant SaaS deployment[cite: 1].
 
 ---
 
