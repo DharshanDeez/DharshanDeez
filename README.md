@@ -8,12 +8,12 @@ Engineering intelligent production systems, scalable multi-tenant SaaS platforms
 
 ## 🚀 About Me
 
-I'm a **Senior Full Stack AI Engineer & SaaS Builder** with 4.5+ years of professional experience shipping production-ready applications. I specialize in complete product ownership—architecting distributed cloud backends, designing advanced multi-agent orchestrations, building modern web/mobile interfaces, and setting up robust CI/CD pipelines.
+I'm a **Senior Full Stack AI Engineer & SaaS Builder** with 4.5+ years of professional experience shipping production-ready applications. I specialize in complete product ownership, architecting distributed cloud backends, designing advanced multi-agent orchestrations, building modern web/mobile interfaces, and setting up robust CI/CD pipelines.
 
 I bridge the gap between deep AI integration and heavy-duty product engineering to build software that drives real business impact.
 
-* ⚡ **Rapid MVP Development:** I build and launch robust, production-ready MVPs end-to-end within a tight 3-week sprint.
-* 🛠️ **Full-Product Capability:** Cloud infrastructure, database modeling, secure multi-tenant backends, cross-platform mobile, responsive frontends, and native AI layers—built entirely end-to-end.
+* ⚡ **Rapid MVP Development:** I build and launch robust, production ready MVPs end-to-end within a tight 3-week sprint.
+* 🛠️ **Full-Product Capability:** Cloud infrastructure, database modeling, secure multi-tenant backends, cross-platform mobile, responsive frontends, and native AI layers built entirely end-to-end.
 
 ---
 
