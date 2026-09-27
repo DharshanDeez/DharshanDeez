@@ -70,12 +70,6 @@ An AI-powered, real-time simulated interview system (voice + text) built end-to-
 
 ---
 
-## 🚀 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DharshanDeez&theme=github-dark&hide_border=true" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
